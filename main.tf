@@ -1,7 +1,7 @@
 terraform {
   /*
   cloud {
-    organization = "policy-as-code-training testing"
+    organization = "policy-as-code-training"
     workspaces {
       name = "policy-dev-abb"
     }
